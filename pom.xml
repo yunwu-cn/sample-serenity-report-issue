@@ -12,8 +12,8 @@
     <packaging>jar</packaging>
 
     <properties>
-        <cucumber.version>6.11.0</cucumber.version>
-        <serenity.version>3.1.5</serenity.version>
+        <cucumber.version>7.2.3</cucumber.version>
+        <serenity.version>3.2.0</serenity.version>
         <junit5.version>5.8.1</junit5.version>
         <encoding>UTF-8</encoding>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
